@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  #first-input {
+      font-size: 20px;
+  }
+  #search-btn {
+      font-size: 17px;
+  }
+  .card{
+      border-radius: 15px;
+      font-size: 15px;
+      width: 300px;
+      margin: 5px auto;
+  }
+  .card h2{
+      font-size: 25px;
+      text-align: center;
+      padding: 15px 5px;
+  }
+  .card img{
+      border-radius: 10px;
+  }
+  #food-info{
+      border-radius: 20px;
+      text-align: center;
+      display: none;
+      padding: 20px 10px;
+      background-color: rgb(226, 197, 197);
+  
+  }
+  .total-info h1{
+      font-size: 30px;
+      padding: 5px 0;
+  }
+  .total-info h2{
+      font-size: 22px;
+  }
+  .total-info img{
+      width: 60%;
+      border-radius: 20px;
+  }
+  .total-info{
+      width: 60%;
+      margin: 0 auto;
+  }
+  .total-info h4{
+      text-align: left;
+      font-size: 20px;
+      padding: 3px 0;
+  }
+  #items{
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      grid-gap: 05px;
+  }
+  form{
+      padding:50px 0;
+      margin: 0 auto;
+  }*{
+  margin: 0;
+  padding: 0;
+}
+#first-input {
+    font-size: 20px;
+}
+#search-btn {
+    font-size: 17px;
+}
+.card{
+    border-radius: 15px;
+    font-size: 15px;
+    width: 300px;
+    margin: 5px auto;
+}
+.card h2{
+    font-size: 25px;
+    text-align: center;
+    padding: 15px 5px;
+}
+.card img{
+    border-radius: 10px;
+}
+#food-info{
+    border-radius: 20px;
+    text-align: center;
+    display: none;
+    padding: 20px 10px;
+    background-color: rgb(226, 197, 197);
+
+}
+.total-info h1{
+    font-size: 30px;
+    padding: 5px 0;
+}
+.total-info h2{
+    font-size: 22px;
+}
+.total-info img{
+    width: 60%;
+    border-radius: 20px;
+}
+.total-info{
+    width: 60%;
+    margin: 0 auto;
+}
+.total-info h4{
+    text-align: left;
+    font-size: 20px;
+    padding: 3px 0;
+}
+#items{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 05px;
+}
+form{
+    padding:50px 0;
+    margin: 0 auto;
+}
